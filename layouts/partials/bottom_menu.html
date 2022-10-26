@@ -9,8 +9,10 @@
             &#183;
         {{ end }}
     {{ end }}
+    
+{{ if .Page.Site.Params.mainMenu }}
 
-    <!-- Disable bottom nav except for home (cluttered when only one page) -->
+    <!-- Disable bottom nav except for home (cluttered when only one pg) -->
     
     {{ if .Page.Site.Params.homepage }}
         <!-- &#183;  -->
