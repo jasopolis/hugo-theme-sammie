@@ -1,4 +1,4 @@
-# [Call me Sam: a theme for Hugo](https://victoria.dev/hugo-theme-sam/)
+# Call me Sam(mie): a fork of the [Sam theme](https://github.com/victoriadrake/hugo-theme-sam) for Hugo
 
 ![Test Hugo versions](https://github.com/victoriadrake/hugo-theme-sam/workflows/test-versions/badge.svg)
 ![Latest Release](https://img.shields.io/github/tag/victoriadrake/hugo-theme-sam.svg)
@@ -68,7 +68,7 @@ npm i postcss postcss-cli autoprefixer
 3. Declare the `sam` theme module as a dependency of your site:
 
     ```sh
-    hugo mod get github.com/victoriadrake/hugo-theme-sam
+    hugo mod get github.com/jasopolis/hugo-theme-sammie
     ```
 
 ### Use the theme locally with git clone or as a submodule
@@ -76,13 +76,13 @@ npm i postcss postcss-cli autoprefixer
 Run from the root of your Hugo site:
 
 ```sh
-git clone https://github.com/victoriadrake/hugo-theme-sam.git themes/sam
+git clone https://github.com/jasopolis/hugo-theme-sammie.git themes/sam
 ```
 
 Alternatively you can include this repository as a [git submodule](https://git-scm.com/book/de/v1/Git-Tools-Submodule). This makes it easier to update this theme if you have your Hugo site in git as well. For this you need to run:
 
 ```sh
-git submodule add https://github.com/victoriadrake/hugo-theme-sam.git themes/sam
+git submodule add https://github.com/jasopolis/hugo-theme-sammie.git themes/sam
 ```
 
 ### 2. Configure your site
@@ -94,7 +94,7 @@ From the exampleSite, copy `config.toml` to the root folder of your Hugo site. I
 Make sure the following line is uncommented in order to activate your theme as hugo module:
 
 ```toml
-theme = "github.com/victoriadrake/hugo-theme-sam"
+theme = "github.com/jasopolis/hugo-theme-sammie"
 ```
 
 #### To configure a local theme
@@ -252,7 +252,7 @@ Open source themes like this one would not be possible without some amazing **[c
 
 ## License
 
-Copyright (C) 2018-2022 [Victoria Drake](https://victoria.dev/)
+Copyright (C) 2018-2022 [Jas Liu](https://jsliu.dev), [Victoria Drake](https://victoria.dev/)
 
 Licensed under the [Apache License, Version 2.0](https://github.com/victoriadrake/hugo-theme-sam/blob/master/LICENSE) (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
