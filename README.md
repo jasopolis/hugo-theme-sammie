@@ -1,4 +1,4 @@
-# Call me Sam(mie): a fork of the [Sam theme](https://github.com/victoriadrake/hugo-theme-sam) for Hugo
+# Call me Sam(mie): a fork of the [Sam theme](https://github.com/victoriadrake/hugo-theme-sam)
 
 ![Test Hugo versions](https://github.com/victoriadrake/hugo-theme-sam/workflows/test-versions/badge.svg)
 ![Latest Release](https://img.shields.io/github/tag/victoriadrake/hugo-theme-sam.svg)
