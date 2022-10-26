@@ -1,3 +1,3 @@
-module github.com/victoriadrake/hugo-theme-sam
+module github.com/jasopolis/personal_site
 
 go 1.12
