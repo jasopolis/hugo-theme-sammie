@@ -138,7 +138,7 @@ This list comprises the index page and part of the navigation menu at the bottom
 Use Hugo's built-in server to see your site in action as you make changes.
 
 ```sh
-hugo serve -t sam
+hugo serve
 ```
 
 Visit `localhost:1313` in your browser to see a live preview of your site.
