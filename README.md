@@ -5,11 +5,7 @@
 
 ![Main page screenshot](https://github.com/victoriadrake/hugo-theme-sam/blob/master/images/screenshot.png)
 
-Sam is a Simple and Minimalist theme for Hugo. It lets you categorize and showcase your content the way you want to.
-
-Focused on content and typography, the stylized index page is really just a list of navigation links that you can set in your `config.toml`. This versatile design is limited only by your imagination, as you can make it say anything you like. Here are some ideas.
-
-![Index page iterations.](https://github.com/victoriadrake/hugo-theme-sam/blob/master/images/ideas.png)
+Sammie is a minimalist theme for Hugo. It lets you categorize and showcase your content the way you want to.
 
 ## Features
 
